@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21FDA317-250E-4981-95AC-1D9AD9F873C5}|CarBookingApp.Data\\CarBookingApp.Data.csproj|d:\\progarmacion\\asp.net_angular\\carbookingapp\\carbookingapp.data\\carbookingapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21FDA317-250E-4981-95AC-1D9AD9F873C5}|CarBookingApp.Data\\CarBookingApp.Data.csproj|solutionrelative:carbookingapp.data\\carbookingapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E636FF-B666-45BF-A64F-C6A417D7E7B2}|CarBookingApp\\CarBookingApp.csproj|d:\\progarmacion\\asp.net_angular\\carbookingapp\\carbookingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E636FF-B666-45BF-A64F-C6A417D7E7B2}|CarBookingApp\\CarBookingApp.csproj|solutionrelative:carbookingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FDA317-250E-4981-95AC-1D9AD9F873C5}|CarBookingApp.Data\\CarBookingApp.Data.csproj|d:\\progarmacion\\asp.net_angular\\carbookingapp\\carbookingapp.data\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FDA317-250E-4981-95AC-1D9AD9F873C5}|CarBookingApp.Data\\CarBookingApp.Data.csproj|solutionrelative:carbookingapp.data\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FDA317-250E-4981-95AC-1D9AD9F873C5}|CarBookingApp.Data\\CarBookingApp.Data.csproj|d:\\progarmacion\\asp.net_angular\\carbookingapp\\carbookingapp.data\\carbookingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FDA317-250E-4981-95AC-1D9AD9F873C5}|CarBookingApp.Data\\CarBookingApp.Data.csproj|solutionrelative:carbookingapp.data\\carbookingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E636FF-B666-45BF-A64F-C6A417D7E7B2}|CarBookingApp\\CarBookingApp.csproj|d:\\progarmacion\\asp.net_angular\\carbookingapp\\carbookingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2E636FF-B666-45BF-A64F-C6A417D7E7B2}|CarBookingApp\\CarBookingApp.csproj|solutionrelative:carbookingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E636FF-B666-45BF-A64F-C6A417D7E7B2}|CarBookingApp\\CarBookingApp.csproj|d:\\progarmacion\\asp.net_angular\\carbookingapp\\carbookingapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2E636FF-B666-45BF-A64F-C6A417D7E7B2}|CarBookingApp\\CarBookingApp.csproj|solutionrelative:carbookingapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarBookingApp.Data",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp.Data\\CarBookingApp.Data.csproj",
+              "RelativeDocumentMoniker": "CarBookingApp.Data\\CarBookingApp.Data.csproj",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp.Data\\CarBookingApp.Data.csproj",
+              "RelativeToolTip": "CarBookingApp.Data\\CarBookingApp.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T05:22:55.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarBookingAppDbContext.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp.Data\\CarBookingAppDbContext.cs",
+              "RelativeDocumentMoniker": "CarBookingApp.Data\\CarBookingAppDbContext.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp.Data\\CarBookingAppDbContext.cs",
+              "RelativeToolTip": "CarBookingApp.Data\\CarBookingAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:33:45.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp.Data\\Car.cs",
+              "RelativeDocumentMoniker": "CarBookingApp.Data\\Car.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp.Data\\Car.cs",
+              "RelativeToolTip": "CarBookingApp.Data\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:20:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp\\Program.cs",
+              "RelativeDocumentMoniker": "CarBookingApp\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp\\Program.cs",
+              "RelativeToolTip": "CarBookingApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:31:33.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CarBookingApp\\appsettings.json",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp\\appsettings.json",
+              "RelativeToolTip": "CarBookingApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T21:30:06.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarBookingApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CarBookingApp\\CarBookingApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarBookingApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T21:09:12.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

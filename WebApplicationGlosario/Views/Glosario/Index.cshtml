@@ -1,0 +1,93 @@
+﻿@using WebApplicationGlosario.Models.ViewModels
+@model GlosarioViewModel
+
+<div class="container">
+
+	<h1>Glosario</h1>
+	<hr />
+	<h3 class="text-info">Agregar Palabra</h3>
+	<form asp-action="Create" class="row">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="col-md-3 form-group">
+				<label class="form-label" asp-for="palabraIngles"></label>
+				<input class="form-control" asp-for="palabraIngles"/>
+				<span class="text-danger" asp-validation-for="palabraIngles"></span>
+			</div>
+
+			<div class="col-md-3 form-group">
+				<label class="form-label" asp-for="categoriaGramatical"></label>
+				<input class="form-control" asp-for="categoriaGramatical"/>
+				<span class="text-danger" asp-validation-for="categoriaGramatical"></span>
+			</div>
+
+			<div class="col-md-3 form-group">
+				<label class="form-label" asp-for="palabrasEspanol"></label>
+				<input class="form-control" asp-for="palabrasEspanol"/>
+				<span class="text-danger" asp-validation-for="palabrasEspanol"></span>
+			</div>
+
+			<div class="row">
+				<div class="col-md-3 form-group mt-3">
+					<button class="btn btn-outline-success" type="submit">Agregar</button>
+
+				</div>
+			</div>
+		</form>
+	
+		<hr />
+	<h3 class="text-info">Tabla</h3>
+	<div class="row">
+		<table class="table table-hover">
+			<thead>
+				<tr>
+					<th>P. en ingles</th>
+					<th>Categoria Gramatical</th>
+					<th>Significado</th>
+					<th>Operaciones</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var item in Model.inglesTable)
+				{
+					<tr>
+						<td>
+							@Html.DisplayFor(value => item.Palabra)
+						</td>
+						<td>
+							@Html.DisplayFor(value => item.CategoriaGramatical)
+						</td>
+						<td>
+							@foreach (var esp in item.Espanols)
+							{
+
+								@if (esp.Palabra != item.Espanols.ElementAt(item.Espanols.Count - 1).Palabra)
+								{
+									<a>
+										@Html.DisplayFor(value => esp.Palabra),
+									</a>
+								}
+								else
+								{
+									<a>
+										@Html.DisplayFor(value => esp.Palabra)
+									</a>
+								}
+							}
+						</td>
+						<td>
+							<a asp-action="Modificar" asp-route-id="@item.IdIngles" class="text-warning" >Modificar</a>
+							<a class="text-danger" href="#">Eliminar</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</div>
+
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

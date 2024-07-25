@@ -1,0 +1,43 @@
+﻿@using WebApplicationGlosario.Models.ViewModels
+@model InglesViewModel
+
+<div class="container">
+	<h1>Modificar @Model.Ingles</h1>
+	<hr />
+	<form asp-action="Actualizar"  method="POST">
+		<div class="col-md-3 form-group">
+			<input hidden asp-for="Id"/>
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="form-group p-1">
+				<label class="form-label" asp-for="Ingles"></label>
+				<input class="form-control" asp-for="Ingles"/>
+				<span class="text-danger" asp-validation-for="Ingles"></span>
+			</div>
+
+			<div class="form-group p-1">
+				<label class="form-label" asp-for="CategoriaGramatical"></label>
+				<input class="form-control" asp-for="CategoriaGramatical" />
+				<span class="text-danger" asp-validation-for="CategoriaGramatical"></span>
+			</div>
+
+			<div class="form-grup p-1">
+				<label class="form-label" asp-for="Espanol"></label>
+				<input class="form-control" asp-for="Espanol"/>
+				<span class="text-danger" asp-validation-for="Espanol" ></span>
+			</div>
+
+
+			<div class="form-grup p-1">
+				<input type="submit" value="Actualizar" class="btn btn-primary" />
+			</div>
+		</div>
+
+	</form>
+
+</div>
+
+@section Scripts{
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

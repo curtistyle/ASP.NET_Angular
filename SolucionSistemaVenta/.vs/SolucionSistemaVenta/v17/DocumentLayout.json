@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99B848-76AE-445F-BD75-79BA1C724FE4}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\progarmacion\\asp.net_angular\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99B848-76AE-445F-BD75-79BA1C724FE4}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99B848-76AE-445F-BD75-79BA1C724FE4}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\progarmacion\\asp.net_angular\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99B848-76AE-445F-BD75-79BA1C724FE4}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8865CA26-CE07-40FF-96F9-5CD522A9F601}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|d:\\progarmacion\\asp.net_angular\\solucionsistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8865CA26-CE07-40FF-96F9-5CD522A9F601}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99B848-76AE-445F-BD75-79BA1C724FE4}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\progarmacion\\asp.net_angular\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99B848-76AE-445F-BD75-79BA1C724FE4}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99B848-76AE-445F-BD75-79BA1C724FE4}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\progarmacion\\asp.net_angular\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99B848-76AE-445F-BD75-79BA1C724FE4}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FireBaseService.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:37:41.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFireBaseService.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:35:56.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:21:45.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CorreoService.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAvwC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:08:48.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICorreoService.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:07:20.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

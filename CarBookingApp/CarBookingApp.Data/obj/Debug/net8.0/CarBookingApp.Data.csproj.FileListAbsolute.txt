@@ -1,0 +1,15 @@
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\bin\Debug\net8.0\CarBookingApp.Data.deps.json
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\bin\Debug\net8.0\CarBookingApp.Data.runtimeconfig.json
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\bin\Debug\net8.0\CarBookingApp.Data.dll
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\bin\Debug\net8.0\CarBookingApp.Data.pdb
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.csproj.AssemblyReference.cache
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.AssemblyInfoInputs.cache
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.AssemblyInfo.cs
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.csproj.CoreCompileInputs.cache
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.sourcelink.json
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.dll
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\refint\CarBookingApp.Data.dll
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.pdb
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\CarBookingApp.Data.genruntimeconfig.cache
+D:\Progarmacion\ASP.NET_Angular\CarBookingApp\CarBookingApp.Data\obj\Debug\net8.0\ref\CarBookingApp.Data.dll
