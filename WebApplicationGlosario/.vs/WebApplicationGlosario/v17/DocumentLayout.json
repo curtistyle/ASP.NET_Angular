@@ -7,27 +7,23 @@
       "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:controllers\\glosariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\views\\glosario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:views\\glosario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\views\\glosario\\modificar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:views\\glosario\\modificar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\views\\glosario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:views\\glosario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\models\\viewmodels\\glosarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:models\\viewmodels\\glosarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\models\\viewmodels\\inglesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:models\\viewmodels\\inglesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Glosario/True/SqlTable/dbo.Espanol.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\controllers\\inglescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:controllers\\inglescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,6 +32,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\controllers\\inglescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:controllers\\inglescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|d:\\progarmacion\\asp.net_angular\\webapplicationglosario\\models\\viewmodels\\inglesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417BB796-0218-4B9D-881E-D52C7536D066}|WebApplicationGlosario.csproj|solutionrelative:models\\viewmodels\\inglesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,8 +49,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T15:42:00.172Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -54,18 +71,18 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Glosario/True/SqlTable/dbo.Espanol.sql",
               "ToolTip": "dbo.Espanol [Datos]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-23T21:40:27.349Z",
+              "WhenOpened": "2024-08-05T14:37:41.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "InglesViewModel.cs",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Models\\ViewModels\\InglesViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\InglesViewModel.cs",
               "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Models\\ViewModels\\InglesViewModel.cs",
               "RelativeToolTip": "Models\\ViewModels\\InglesViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T18:59:53.572Z",
               "EditorCaption": ""
@@ -86,27 +103,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Modificar.cshtml",
-              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Views\\Glosario\\Modificar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Glosario\\Modificar.cshtml",
-              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Views\\Glosario\\Modificar.cshtml",
-              "RelativeToolTip": "Views\\Glosario\\Modificar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T18:44:08.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Views\\Glosario\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Glosario\\Index.cshtml",
               "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Views\\Glosario\\Index.cshtml",
               "RelativeToolTip": "Views\\Glosario\\Index.cshtml",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAAE4AAAAzAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwB4AAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-23T17:59:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modificar.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Views\\Glosario\\Modificar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Glosario\\Modificar.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Views\\Glosario\\Modificar.cshtml",
+              "RelativeToolTip": "Views\\Glosario\\Modificar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T18:44:08.085Z",
               "EditorCaption": ""
             },
             {
@@ -117,14 +134,14 @@
               "RelativeDocumentMoniker": "Controllers\\GlosarioController.cs",
               "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Controllers\\GlosarioController.cs",
               "RelativeToolTip": "Controllers\\GlosarioController.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAAAIAAAAASAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAgwHYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T21:45:31.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "InglesController.cs",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Controllers\\InglesController.cs",
               "RelativeDocumentMoniker": "Controllers\\InglesController.cs",
@@ -150,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebApplicationGlosario\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

@@ -80,70 +80,48 @@ namespace WebApplicationGlosario.Controllers
                 .FirstAsync();
 
             TempData["id"] = id;
-            
-            return View(new InglesViewModel()
+
+            var aux = ingles.Espanols;
+
+            var inglesViewModel = new InglesViewModel()
             {
                 Id = ingles.IdIngles,
                 Ingles = ingles.Palabra,
                 CategoriaGramatical = ingles.CategoriaGramatical,
-                Espanol = ingles.Espanols.Select(value => value.Palabra).Aggregate((anterior, siguiente) => anterior +", "+ siguiente)
+                Espanol = ingles.Espanols.Count > 0 ? ingles.Espanols
+                .Select(value => value.Palabra)
+                .Aggregate((anterior, siguiente) => anterior + ", " + siguiente) : " "
+                    
+            };
 
-            });
+            return View(inglesViewModel);
 		}
 
-        
-/*		[HttpPost]
-		public async Task<IActionResult> Actualizar(InglesViewModel model)
+        [HttpPost]
+        public async Task<IActionResult> Actualizar(InglesViewModel model)
         {
-
             var ingles = await _context.Ingles
                 .Where(value => value.IdIngles == model.Id)
                 .Include(value => value.Espanols)
                 .FirstAsync();
 
             _context.Espanols.RemoveRange(ingles.Espanols);
-            _context.Update(new Ingles()
-            {
-                IdIngles = model.Id,
-                CategoriaGramatical = model.CategoriaGramatical,
-                Palabra = model.Ingles,
-                Espanols = model.Espanol.Split(',')
-					.Divide()
-					.Select(value => new Espanol() { Palabra = value })
-					.ToList()
-		});
+
+            ingles.Palabra = model.Ingles;
+            ingles.CategoriaGramatical = model.CategoriaGramatical;
+            ingles.Espanols = model.Espanol.Split(',')
+                    .Divide()
+                    .Select(value => new Espanol() { Palabra = value })
+                    .ToList();
+
+            _context.Update(ingles);
 
             await _context.SaveChangesAsync();
 
-			return RedirectToAction("Index");
-        }*/
-		
+            return RedirectToAction("Index");
+        }
 
-		[HttpPost]
-		public async Task<IActionResult> Actualizar(InglesViewModel model)
-		{
 
-			var ingles = await _context.Ingles
-				.Where(value => value.IdIngles == model.Id)
-				.Include(value => value.Espanols)
-				.FirstAsync();
 
-			_context.Espanols.RemoveRange(ingles.Espanols);
-			_context.Update(new Ingles()
-			{
-				IdIngles = model.Id,
-				CategoriaGramatical = model.CategoriaGramatical,
-				Palabra = model.Ingles,
-				Espanols = model.Espanol.Split(',')
-					.Divide()
-					.Select(value => new Espanol() { Palabra = value })
-					.ToList()
-			});
-
-			await _context.SaveChangesAsync();
-
-			return RedirectToAction("Index");
-		}
-
-	}
+    }
 }

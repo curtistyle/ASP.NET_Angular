@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationGlosario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f933893c04023718954d8c4d8b57b8950652e03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afee1b747b09b7e7d891a75ef2169d799a5a3080")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationGlosario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationGlosario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
