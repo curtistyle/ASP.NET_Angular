@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35201.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppFormulariosDinamicos", "WebAppFormulariosDinamicos\WebAppFormulariosDinamicos.csproj", "{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1B1D0F-C2DF-44D5-ADCD-C9550E80334D}
+	EndGlobalSection
+EndGlobal

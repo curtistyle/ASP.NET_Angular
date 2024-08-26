@@ -1,0 +1,20 @@
+﻿@using WebAppFormulariosDinamicos.Models.Reflections;
+@model IReflection;
+
+@{
+	ViewData["title"] = "Dinamic Form";
+
+	System.Reflection.PropertyInfo[] lst = Model.GetType().GetProperties();
+}
+
+<h1>Dynamic Form</h1>
+
+<div>
+	@foreach (var propertie in lst)
+	{
+		<div>
+			<label>@propertie.Name</label>
+			<input type="text" name="@propertie.Name" value="@propertie.GetValue(Model).ToString()" />
+		</div>
+	}
+</div>

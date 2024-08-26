@@ -1,0 +1,64 @@
+﻿@model int
+
+<h1>@WebAppSignalR.Controllers.ChatController.Rooms.GetValueOrDefault(Model)</h1>
+
+<div class="row">
+	<div class="col-12">
+		<input type="text" placeholder="usuario" id="user"/>
+		<input type="text" placeholder="texto" id="message"/>
+		<button id="btnSend">Send</button>
+	</div>
+</div>
+
+<div class="row">
+	@* Informacion del  mensaje *@
+	<div class="col-6">
+		<div id="messages"></div>
+	</div>
+	@* Notificaciones *@
+	<div class="col-6">
+		<div id="notification"></div>
+	</div>
+</div>
+
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+
+<script>
+	
+	var connection = new signalR.HubConnectionBuilder().withUrl("/chat").build();
+
+	connection.start().then(() => {
+		connection.invoke("AddToGroup", "@Model")
+	}).catch( (e) => console.error(e));
+
+	document.getElementById("btnSend").addEventListener("click", (event) => { 
+		let room = "@Model";
+		
+		let user = document.getElementById("user").value;
+		let message = document.getElementById("message").value;
+		
+
+
+		connection.invoke("SendMenssage", room, user, message)
+			.catch((err) => console.error(err.toString()));
+
+		// limpiamos la caja de texto
+		document.getElementById("message").value = "";
+		document.getElementById("message").focus();
+
+		event.preventDefault();
+	})
+
+	connection.on("ReceiveMessage", (user, message) => {
+		console.log("user: " + user);
+		console.log("message: " + message);
+
+		var message = "<div><b>" + user + " dijo:</b> " + message + "</div>";
+
+		// informacion del mensaje
+		document.getElementById("messages").innerHTML = message + document.getElementById("messages").innerHTML;
+	});
+
+	
+</script>

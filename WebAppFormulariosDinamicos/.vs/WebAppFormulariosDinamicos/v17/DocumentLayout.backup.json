@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}|WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos.csproj|d:\\progarmacion\\asp.net_angular\\webappformulariosdinamicos\\webappformulariosdinamicos\\views\\reflection\\dynamicform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}|WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos.csproj|solutionrelative:webappformulariosdinamicos\\views\\reflection\\dynamicform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}|WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos.csproj|d:\\progarmacion\\asp.net_angular\\webappformulariosdinamicos\\webappformulariosdinamicos\\models\\reflections\\ireflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}|WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos.csproj|solutionrelative:webappformulariosdinamicos\\models\\reflections\\ireflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}|WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos.csproj|d:\\progarmacion\\asp.net_angular\\webappformulariosdinamicos\\webappformulariosdinamicos\\models\\reflections\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}|WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos.csproj|solutionrelative:webappformulariosdinamicos\\models\\reflections\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}|WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos.csproj|d:\\progarmacion\\asp.net_angular\\webappformulariosdinamicos\\webappformulariosdinamicos\\controllers\\reflectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E9FCE4-C0FD-4433-BE74-2D1A3C79A09E}|WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos.csproj|solutionrelative:webappformulariosdinamicos\\controllers\\reflectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos\\Models\\Reflections\\Persona.cs",
+              "RelativeDocumentMoniker": "WebAppFormulariosDinamicos\\Models\\Reflections\\Persona.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos\\Models\\Reflections\\Persona.cs",
+              "RelativeToolTip": "WebAppFormulariosDinamicos\\Models\\Reflections\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:30:45.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReflection.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos\\Models\\Reflections\\IReflection.cs",
+              "RelativeDocumentMoniker": "WebAppFormulariosDinamicos\\Models\\Reflections\\IReflection.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos\\Models\\Reflections\\IReflection.cs",
+              "RelativeToolTip": "WebAppFormulariosDinamicos\\Models\\Reflections\\IReflection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:30:15.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicForm.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos\\Views\\Reflection\\DynamicForm.cshtml",
+              "RelativeDocumentMoniker": "WebAppFormulariosDinamicos\\Views\\Reflection\\DynamicForm.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos\\Views\\Reflection\\DynamicForm.cshtml",
+              "RelativeToolTip": "WebAppFormulariosDinamicos\\Views\\Reflection\\DynamicForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T04:28:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReflectionController.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos\\Controllers\\ReflectionController.cs",
+              "RelativeDocumentMoniker": "WebAppFormulariosDinamicos\\Controllers\\ReflectionController.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppFormulariosDinamicos\\WebAppFormulariosDinamicos\\Controllers\\ReflectionController.cs",
+              "RelativeToolTip": "WebAppFormulariosDinamicos\\Controllers\\ReflectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:27:14.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

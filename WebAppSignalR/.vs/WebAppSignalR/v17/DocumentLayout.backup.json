@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|d:\\progarmacion\\asp.net_angular\\webappsignalr\\webappsignalr\\views\\chat\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|solutionrelative:webappsignalr\\views\\chat\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|d:\\progarmacion\\asp.net_angular\\webappsignalr\\webappsignalr\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|solutionrelative:webappsignalr\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|d:\\progarmacion\\asp.net_angular\\webappsignalr\\webappsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|solutionrelative:webappsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|d:\\progarmacion\\asp.net_angular\\webappsignalr\\webappsignalr\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|solutionrelative:webappsignalr\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|d:\\progarmacion\\asp.net_angular\\webappsignalr\\webappsignalr\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6BC33DA-B45E-4181-8494-E56B104585CB}|WebAppSignalR\\WebAppSignalR.csproj|solutionrelative:webappsignalr\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\Views\\Chat\\Room.cshtml",
+              "RelativeDocumentMoniker": "WebAppSignalR\\Views\\Chat\\Room.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\Views\\Chat\\Room.cshtml",
+              "RelativeToolTip": "WebAppSignalR\\Views\\Chat\\Room.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T19:27:54.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppSignalR\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "WebAppSignalR\\Views\\Chat\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T19:20:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "WebAppSignalR\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "WebAppSignalR\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:17:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppSignalR\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\Program.cs",
+              "RelativeToolTip": "WebAppSignalR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:59:19.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\ChatHub.cs",
+              "RelativeDocumentMoniker": "WebAppSignalR\\ChatHub.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppSignalR\\WebAppSignalR\\ChatHub.cs",
+              "RelativeToolTip": "WebAppSignalR\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:58:54.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
