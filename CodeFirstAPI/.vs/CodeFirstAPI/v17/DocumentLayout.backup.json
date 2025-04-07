@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\CodeFirstAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\CodeFirstAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\Beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB\\Beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\BarContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB\\BarContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\CodeFirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstAPI\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\CodeFirstAPI\\Program.cs",
+              "RelativeToolTip": "CodeFirstAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:21:03.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\CodeFirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstAPI\\appsettings.json",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\CodeFirstAPI\\appsettings.json",
+              "RelativeToolTip": "CodeFirstAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T21:18:53.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\Beer.cs",
+              "RelativeDocumentMoniker": "DB\\Beer.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\Beer.cs",
+              "RelativeToolTip": "DB\\Beer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:55:35.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\Brand.cs",
+              "RelativeDocumentMoniker": "DB\\Brand.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\Brand.cs",
+              "RelativeToolTip": "DB\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:41:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BarContext.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\BarContext.cs",
+              "RelativeDocumentMoniker": "DB\\BarContext.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\CodeFirstAPI\\DB\\BarContext.cs",
+              "RelativeToolTip": "DB\\BarContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:19:54.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

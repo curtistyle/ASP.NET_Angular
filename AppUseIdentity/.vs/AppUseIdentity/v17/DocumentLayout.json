@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79EF40AF-C045-49D1-8FF6-5BE9792AE714}|AppUseIdentity.csproj|d:\\progarmacion\\asp.net_angular\\appuseidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79EF40AF-C045-49D1-8FF6-5BE9792AE714}|AppUseIdentity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79EF40AF-C045-49D1-8FF6-5BE9792AE714}|AppUseIdentity.csproj|d:\\progarmacion\\asp.net_angular\\appuseidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79EF40AF-C045-49D1-8FF6-5BE9792AE714}|AppUseIdentity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,10 +35,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppUnity/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79EF40AF-C045-49D1-8FF6-5BE9792AE714}|AppUseIdentity.csproj|d:\\progarmacion\\asp.net_angular\\appuseidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{79EF40AF-C045-49D1-8FF6-5BE9792AE714}|AppUseIdentity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -60,12 +60,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T23:04:09.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T23:04:09.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -77,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "dbo.AspNetUserRoles.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppUnity/True/SqlTable/dbo.AspNetUserRoles.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppUnity/True/SqlTable/dbo.AspNetUserRoles.sql",
@@ -86,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "dbo.AspNetRoles.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppUnity/True/SqlTable/dbo.AspNetRoles.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppUnity/True/SqlTable/dbo.AspNetRoles.sql",
@@ -95,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -107,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20240730214742_FirstMigration.cs",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\Migrations\\20240730214742_FirstMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240730214742_FirstMigration.cs",
@@ -115,25 +114,24 @@
               "RelativeToolTip": "Migrations\\20240730214742_FirstMigration.cs",
               "ViewState": "AgIAAH4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T21:47:42.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T21:47:42.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T21:42:22.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\Services\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
@@ -141,20 +139,20 @@
               "RelativeToolTip": "Services\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T21:41:14.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T21:41:14.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppUseIdentity\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T21:27:15.624Z"
+              "WhenOpened": "2024-07-30T21:27:15.624Z",
+              "EditorCaption": ""
             }
           ]
         }

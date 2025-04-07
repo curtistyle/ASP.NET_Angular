@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\utilities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\utilities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\utilities\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\utilities\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\utilities\\websitesrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\utilities\\websitesrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\migrations\\20240913143638_threemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\migrations\\20240913143638_threemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|d:\\progarmacion\\asp.net_angular\\webappblog\\webappblog\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0493AC15-7430-4522-AB6F-51B8A27B8D7D}|WebAppBlog\\WebAppBlog.csproj|solutionrelative:webappblog\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Utilities\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Utilities\\DbInitializer.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Utilities\\DbInitializer.cs",
+              "RelativeToolTip": "WebAppBlog\\Utilities\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:03:46.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Utilities\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Utilities\\IDbInitializer.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Utilities\\IDbInitializer.cs",
+              "RelativeToolTip": "WebAppBlog\\Utilities\\IDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:02:30.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebSitesRules.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Utilities\\WebSitesRules.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Utilities\\WebSitesRules.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Utilities\\WebSitesRules.cs",
+              "RelativeToolTip": "WebAppBlog\\Utilities\\WebSitesRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:00:03.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240913143638_ThreeMigration.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Migrations\\20240913143638_ThreeMigration.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Migrations\\20240913143638_ThreeMigration.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Migrations\\20240913143638_ThreeMigration.cs",
+              "RelativeToolTip": "WebAppBlog\\Migrations\\20240913143638_ThreeMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:36:38.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Program.cs",
+              "RelativeToolTip": "WebAppBlog\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAASwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:16:12.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAppBlog\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:03:29.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Models\\Page.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Models\\Page.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Models\\Page.cs",
+              "RelativeToolTip": "WebAppBlog\\Models\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:55:55.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Models\\Post.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Models\\Post.cs",
+              "RelativeToolTip": "WebAppBlog\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:50:36.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebAppBlog\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WebAppBlog\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:47:32.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "readme.md",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\readme.md",
+              "RelativeDocumentMoniker": "WebAppBlog\\readme.md",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\WebAppBlog\\WebAppBlog\\readme.md",
+              "RelativeToolTip": "WebAppBlog\\readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-13T13:28:25.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\models\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:models\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|d:\\progarmacion\\asp.net_angular\\applogin\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B83E03-BD1C-4EC3-B2BC-9E5DD821EF83}|AppLogin.csproj|solutionrelative:views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readme.md",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-08T01:37:31.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T01:36:07.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:02:16.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T04:45:51.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T21:46:42.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T21:19:41.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Acceso\\Login.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "Views\\Acceso\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T21:18:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T20:31:39.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Models\\ViewModels\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\UsuarioViewModel.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Models\\ViewModels\\UsuarioViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\UsuarioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:32:14.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Acceso\\Registrarse.cshtml",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeToolTip": "Views\\Acceso\\Registrarse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T18:54:43.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccesoController.cs",
+              "ToolTip": "D:\\Progarmacion\\ASP.NET_Angular\\AppLogin\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:50:29.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

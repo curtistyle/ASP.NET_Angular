@@ -34,11 +34,7 @@ namespace AppLogin.Data
 				// Columna Clave
 				table.Property(col => col.Clave);
 			});
-
 			modelBuilder.Entity<Usuario>().ToTable("Usuario"); // crea la tabla en la base de con el nombre "Usuario" y no con el nombre "Usuarios" del DBset
-
-
 		}
-
 	}
 }
